@@ -16,7 +16,7 @@ print(f"""{Fore.LIGHTMAGENTA_EX}{Style.BRIGHT}
  ██╔═══╝ ██║███╗██║██║╚██╗██║██╔══╝  ██╔══██╗
  ██║     ╚███╔███╔╝██║ ╚████║███████╗██║  ██║
  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
- Developed by Papi#3534                      """)
+ """)
 
 def email_leaks():
     session = requests.session()
